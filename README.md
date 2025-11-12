@@ -175,7 +175,7 @@ All scripts and notes authored by **Isaac Oppong** are released under the **MIT 
 
 **Isaac Oppong**
 📧 [i.oppong999@gmail.com](mailto:i.oppong999@gmail.com)
-🌐 [https://www.linkedin.com/in/oppong-isaac-ks999](https://github.com/ksmile999)
+🌐 [https://www.linkedin.com/in/oppong-isaac-ks999](https://www.linkedin.com/in/oppong-isaac-ks999)
 🎓 Course: [Python for Everybody – University of Michigan](https://www.coursera.org/specializations/python)
 
 ---
